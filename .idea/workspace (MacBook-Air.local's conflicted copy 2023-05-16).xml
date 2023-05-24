@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="62209b3b-a518-4796-b1e5-7e9ad1618314" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/app/(auth)/login/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/(dashboard)/dashboard/add/loading.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/(dashboard)/dashboard/add/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/(dashboard)/dashboard/chat/[chatId]/loading.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/(dashboard)/dashboard/chat/[chatId]/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/(dashboard)/dashboard/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/(dashboard)/dashboard/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/(dashboard)/dashboard/request/loading.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/(dashboard)/dashboard/request/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/api/friends/accept/route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/api/friends/add/route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/api/friends/deny/route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/api/message/send/route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AddFriendButton.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ChatInput.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FriendRequests.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FriendRequestsSidebarOption.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Icons.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Messages.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MobileChatLayout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Providers.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SideBarChatList.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SignOutButton.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UnseenChatToast.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/Button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/get-friends-by-user-id.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/redis.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/auth.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/db.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/pusher.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/util.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/validation/add-friend.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/validation/message.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middleware.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/api/auth/[...nextauth].ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/db.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/next-auth.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/pusher.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/typings.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/next-realtime-chat.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/next-realtime-chat.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PRjkPsrgaitoRrxVQf9feTw9nM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Dropbox/preciser-fantasy&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\Dropbox\\next-realtime-chat\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Dropbox\next-realtime-chat\src\app\(dashboard)" />
+      <recent name="D:\Dropbox\next-realtime-chat\src\app\(auth)" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62209b3b-a518-4796-b1e5-7e9ad1618314" name="Changes" comment="" />
+      <created>1683426931124</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683426931124</updated>
+      <workItem from="1683426932575" duration="4880000" />
+      <workItem from="1683470575868" duration="6888000" />
+      <workItem from="1683507654702" duration="2154000" />
+      <workItem from="1683526071854" duration="6386000" />
+      <workItem from="1683624456191" duration="3925000" />
+      <workItem from="1683730523584" duration="765000" />
+      <workItem from="1683774586189" duration="1397000" />
+      <workItem from="1683813761877" duration="3692000" />
+      <workItem from="1683880751106" duration="14267000" />
+      <workItem from="1684162441244" duration="4670000" />
+      <workItem from="1684230453960" duration="4806000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
